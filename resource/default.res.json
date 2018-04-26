@@ -1,7 +1,7 @@
 {
 	"groups": [
 		{
-			"keys": "",
+			"keys": "config_json,mainres_json,common_json",
 			"name": "preload"
 		}
 	],
@@ -15,21 +15,6 @@
 			"url": "assets/.DS_Store",
 			"type": "bin",
 			"name": "_DS_Store"
-		},
-		{
-			"url": "assets/bg.jpg",
-			"type": "image",
-			"name": "bg_jpg"
-		},
-		{
-			"url": "assets/egret-game.tmproject",
-			"type": "bin",
-			"name": "egret-game_tmproject"
-		},
-		{
-			"url": "assets/egret_icon.png",
-			"type": "image",
-			"name": "egret_icon_png"
 		},
 		{
 			"url": "assets/Button/button_down.png",
