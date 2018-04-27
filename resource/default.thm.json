@@ -33,6 +33,7 @@
 		"resource/exml/main/MainSkin.exml",
 		"resource/exml/main/WelcomeSkin.exml",
 		"resource/exml/nostop/NostopMainItemSkin.exml",
+		"resource/exml/nostop/NostopMoveItemSkin.exml",
 		"resource/exml/nostop/NostopPlayerWinSkin.exml",
 		"resource/exml/nostop/NostopWinSkin.exml"
 	],
