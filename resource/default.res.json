@@ -16,6 +16,11 @@
 			"type": "sheet",
 			"name": "mainres_json",
 			"subkeys": "guide-dialogbox,i-gem,icon-gem,main,page-arrow,shade-01b,tip-bg"
+		},
+		{
+			"url": "sound/hello.mp3",
+			"type": "sound",
+			"name": "hello_mp3"
 		}
 	]
 }
