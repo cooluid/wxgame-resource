@@ -21,6 +21,11 @@
 			"url": "sound/hello.mp3",
 			"type": "sound",
 			"name": "hello_mp3"
+		},
+		{
+			"url": "sound/mh.mp3",
+			"type": "sound",
+			"name": "mh_mp3"
 		}
 	]
 }
