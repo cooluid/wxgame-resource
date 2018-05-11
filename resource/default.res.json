@@ -16,6 +16,11 @@
 			"type": "sheet",
 			"name": "mainres_json",
 			"subkeys": "guide-dialogbox,i-gem,icon-gem,main,page-arrow,shade-01b,tip-bg"
+		},
+		{
+			"url": "assets/street.jpg",
+			"type": "image",
+			"name": "street_jpg"
 		}
 	]
 }
