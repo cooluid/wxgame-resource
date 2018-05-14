@@ -26,6 +26,11 @@
 			"url": "sound/mh.mp3",
 			"type": "sound",
 			"name": "mh_mp3"
+		},
+		{
+			"url": "assets/chick.png",
+			"type": "image",
+			"name": "chick_png"
 		}
 	]
 }
