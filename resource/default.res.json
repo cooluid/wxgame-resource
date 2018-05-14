@@ -21,6 +21,11 @@
 			"url": "assets/street.jpg",
 			"type": "image",
 			"name": "street_jpg"
+		},
+		{
+			"url": "sound/mh.mp3",
+			"type": "sound",
+			"name": "mh_mp3"
 		}
 	]
 }
